@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rahulsups/nodejs-auth.git"
+    "url": "git+https://github.com/akshayrakhunde01/NodeAuth.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rahulsups/nodejs-auth/issues"
+    "url": "https://https://github.com/akshayrakhunde01/NodeAuth/issues"
   },
-  "homepage": "https://github.com/rahulsups/nodejs-auth#readme",
+  "homepage": "https://github.com/akshayrakhunde01/NodeAuth#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
